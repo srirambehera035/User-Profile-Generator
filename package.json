@@ -1,0 +1,12 @@
+{
+  "name": "profile-card-app",
+  "version": "1.0.0",
+  "description": "User profile card generator - form submits via POST, backend returns formatted profile data",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
